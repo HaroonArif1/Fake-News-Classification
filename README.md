@@ -31,9 +31,14 @@ This project demonstrates how machine learning and semantic analysis can be appl
 
 ---
 
-## Dataset Description
-The input data consists of fake news article titles and their relationships:
+## Dataset
 
+The datasets for this project are hosted on Kaggle. You can download the training and testing datasets from the following links:
+
+- **Training Data**: [Download the training dataset from Kaggle](https://www.kaggle.com/datasets/haroonarif1/train-dataset)
+- **Testing Data**: [Download the testing dataset from Kaggle](https://www.kaggle.com/datasets/haroonarif1/test-data)
+
+The datasets consist of fake news article titles and their relationships:
 - **train.csv**: Used for model training, containing news pairs and labels.
 - **test.csv**: Used for model testing and evaluation.
 
