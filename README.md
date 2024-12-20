@@ -59,8 +59,10 @@ Each data record contains the following fields:
    ```bash
    git clone https://github.com/HaroonArif1/Fake-News-Classification.git
 2. Navigate to the project directory:
+   ```bash
     cd Fake-News-Classification
-3. Install the necessary libraries manually, run:
+4. Install the necessary libraries manually, run:
+   ```bash
     pip install transformers sentence-transformers numpy matplotlib
 
 ---
@@ -68,8 +70,10 @@ Each data record contains the following fields:
 ## Usage
 1. Prepare your dataset in the .csv format with news pairs and labels.
 2. Run the classification script:
+   ```bash
     python classify_fake_news.py
-3. Visualize the results by running:
+4. Visualize the results by running:
+   ```bash
     python visualize_results.py
 
 ---
@@ -77,9 +81,3 @@ Each data record contains the following fields:
 ## Contributing
 
 Feel free to fork this repository and contribute by submitting pull requests. Issues and feedback are welcome.
-
-
-
-
-
-
